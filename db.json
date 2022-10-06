@@ -1,0 +1,10 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Daniel",
+      "surname": "Muratov",
+      "tel": "+996703224027"
+    }
+  ]
+}
